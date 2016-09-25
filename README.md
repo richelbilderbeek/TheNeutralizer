@@ -27,7 +27,7 @@ The *.exe file is the simulation itself, the *.dll files are for runtime support
 By default, all files are extracted to “D:/The Neutralizer/”, during installation this path can freely be changed.
 USE THE PROGRAM AT YOUR OWN RISK AND RESPONSIBILITY
 
-* [Download link] http://www.thijsjanzen.nl/The%20Neutralizer%201.31.exe
+[Download link](http://www.thijsjanzen.nl/The%20Neutralizer%201.31.exe)
 
 
 ![](http://www.thijsjanzen.nl/wordpress/wp-content/uploads/2015/02/TheNeutralizerScreenShot-1.jpg)
