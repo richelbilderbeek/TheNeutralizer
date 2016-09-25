@@ -4,7 +4,7 @@ The Neutralizer is a Windows only program that was developed for the Community E
 With the program, the student can get a general grasp and idea of how the neutral model works.
  
 ## Background
-The program is coded in C++, using standard Windows Forms (the interaction screen) in combination with a freeglut openGL implementation (the screen with the moving squares).
+The program is coded in C++/CLI, using standard Windows Forms (the interaction screen) in combination with a freeglut openGL implementation (the screen with the moving squares).
 On the screen with the buttons, the user can adjust the values for the different parameters (exponential notation is preferred, to avoid problems with comma’s and language settings). After pressing start, the local community is simulated forward in time, as shown in the colored figure. Different colors represent different species.
  
 ## The model
