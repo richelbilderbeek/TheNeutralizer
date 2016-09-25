@@ -1,6 +1,6 @@
 # The Neutralizer
 
-The Neutralizer is a program that was developed for the Community Ecology Research Course given every year in spring by the Community and Ecology department.
+The Neutralizer is a Windows only program that was developed for the Community Ecology Research Course given every year in spring by the Community and Ecology department.
 With the program, the student can get a general grasp and idea of how the neutral model works.
  
 ## Background
@@ -25,6 +25,7 @@ msvcr100.dll
 OPENGL32.dll
 The *.exe file is the simulation itself, the *.dll files are for runtime support only. More advanced programmers could possibly statically link these dll’s to the program, but I have not been able to do this.
 By default, all files are extracted to “D:/The Neutralizer/”, during installation this path can freely be changed.
+
 USE THE PROGRAM AT YOUR OWN RISK AND RESPONSIBILITY
 
 [Download link](http://www.thijsjanzen.nl/The%20Neutralizer%201.31.exe)
