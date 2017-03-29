@@ -218,7 +218,7 @@ void initializeMetaCommunity()
 	//std::cout << "progress: " << "\t";
 	(*(P.FORM))->add_systemLog("progress: \r\n");
 	int disp = (int)(Jm * 0.1);
-	for(int j = 2; j < Jm; ++j)
+	for(int j = 1; j < Jm; ++j)
 	{
 		if(j % disp == 0)
 		{
