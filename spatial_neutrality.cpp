@@ -262,12 +262,9 @@ void initializeMetaCommunity()
 		}
 	}
 
-	double multiply = 1.0 / (P.Jm - 1);
-
 	for(std::size_t i = 0; i < abund.size() ;++i)
 	{
 		species newS = newSpecies();
-		newS.fraction = abund[i] * multiply;
 		newS.count = abund[i];
 
 		metaCommunity.push_back(newS);
